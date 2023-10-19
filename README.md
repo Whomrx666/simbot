@@ -49,7 +49,7 @@ python simbot.py
   
   
 **If you want to donate, click on the button**
-<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-UserFinder-yellow?style=for-the-badge&logo=github"></a>
+<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-simbot-yellow?style=for-the-badge&logo=github"></a>
 
   
 ## Supporters
