@@ -50,7 +50,3 @@ python simbot.py
   
 **If you want to donate, click on the button**
 <a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-simbot-yellow?style=for-the-badge&logo=github"></a>
-
-  
-## Supporters
-[![Stargazers repo roster for @Whomrx666/simbot](https://reporoster.com/stars/Whomrx666/simbot)](https://github.com/Whomrx666/simbot/stargazers)
