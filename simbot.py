@@ -1,7 +1,6 @@
-#Open Source
 #Belajar Yang Bener Jan Recode Terus
-#Subscribe Lah Biar Afdhol
-#https://youtube.com/channel/UCynwDetBitvXl-m_hO2fSrg
+#Subscribe Lah anjing
+#https://youtube.com/@whomrx666
 #Gak Subscribe Gak Berkah:)
 
 import requests,os,sys,time
